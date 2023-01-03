@@ -9,7 +9,7 @@ jobs:
         env:
           account_sid: '980b9428b57332e1575ee09a2e67fade'
           auth_token: '980b9428b57332e1575ee09a2e67fade'
-          to_whatsapp_no: '8866077749'
+          to_whatsapp_no: '+918866077749'
 
 
         uses: ishween/whatsapp-push-notify-action@master
